@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Rachel Jiménez! 👋
 
-<!--
-**RachelJDev/RachelJDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Frontend Developer  
+🌍 Passionate about building beautiful and functional web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a frontend developer and computer engineering student with a passion for
+creating clean, responsive, and user-friendly interfaces. I love turning ideas
+into reality through code.
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RachelJDev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelJDev&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect!
+
+
+
+---
+
+⭐ *"Code is not just syntax, it's creativity."*
+
