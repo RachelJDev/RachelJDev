@@ -24,12 +24,8 @@ into reality through code.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RachelJDev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelJDev&layout=compact&theme=tokyonight)
+## 🌐 My Portfolio
+[View my project](https://RachelJDev.github.io/Proyecto-HTML-Y-CCS/)
 
 ---
 
